@@ -16,6 +16,11 @@ All cafes are stored in a CSV file and displayed in a **Bootstrap-styled table**
 
 ---
 
+## 🌍 Live Demo
+🔗 [View Cafe Rating Collector](https://cafe-rating-collector.onrender.com/) 
+
+---
+
 ## 🛠️ Tech Stack
 - **Python 3**
 - **Flask**
