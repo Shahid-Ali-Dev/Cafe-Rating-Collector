@@ -50,5 +50,5 @@ All cafes are stored in a CSV file and displayed in a **Bootstrap-styled table**
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cafe-rating-collector.git
+git clone https://github.com/Shahid-Ali-Dev/Cafe-Rating-Collector.git
 cd cafe-rating-collector
